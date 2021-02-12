@@ -33,7 +33,7 @@ $(window).load(function() {
 
     var defaults = {
         slide:              0,
-        delay:              5000,
+        delay:              1000,
         preload:            false,
         preloadImage:       false,
         preloadVideo:       false,
