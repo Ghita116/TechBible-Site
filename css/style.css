@@ -598,7 +598,7 @@ sup {
 /* 3. More informations ................ */
 /* ------------------------------------- */
 #right-side {
-  background: #f2f3f7;
+  background: #fdfdfd;
   position: relative;
   overflow: auto;
   -webkit-transform: translate3d(100%, 0, 0);
@@ -625,7 +625,7 @@ sup {
 }
 
 #right-side .content h1, #right-side .content h2, #right-side .content h3, #right-side .content h4, #right-side .content h5, #right-side .content h6 {
-  color: #757A86;
+  color: #000000;
 }
 
 #right-side .content h3 {
